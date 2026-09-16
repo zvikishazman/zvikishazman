@@ -13,17 +13,17 @@ I build full-stack products and automation systems across fintech, insurtech, an
 
 ## Selected projects
 
-### [Fantasy Soccer League](https://github.com/zvikishazman/fantasy-soccer-league)
-
-A responsive Flutter Web portfolio edition of a private fantasy-league product piloted with friends. It models squads, budgets, captains, transfer windows, match-cycle standings, and administrator-managed scoring with typed, unit-tested domain logic.
-
-`Flutter` · `Dart` · `Responsive UI` · `Domain Modeling` · `Automated Testing`
-
 ### [Amit's Market](https://github.com/zvikishazman/amits-market)
 
-A full-stack social prediction-market application for private groups, with Google authentication, invite workflows, live parimutuel odds, virtual-currency payouts, settlement tracking, and English/Hebrew interfaces.
+A personal full-stack prediction-market application developed as the sole developer with AI assistance. The implementation includes Google authentication, private groups, pool-based odds, virtual payouts, settlement tracking, and English/Hebrew interfaces. Calculation and route-handler tests accompany the code; real OAuth/database flows require development credentials and an end-to-end check after modernization.
 
 `Next.js` · `React` · `TypeScript` · `Auth.js` · `Prisma` · `PostgreSQL`
+
+### [Fantasy Soccer League](https://github.com/zvikishazman/fantasy-soccer-league)
+
+I built the original Flutter/Firebase product independently and piloted it with friends. The public repository is an AI-assisted modernization with synthetic data, read-only squad and standings views, responsive navigation, and tested scoring logic. Original authentication, transfers, and persistence are documented as historical features rather than current demo capabilities.
+
+`Flutter` · `Dart` · `Responsive UI` · `Domain Modeling` · `Automated Testing`
 
 ## Contact
 
